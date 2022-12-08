@@ -1,0 +1,10 @@
+::ng-deep {
+  .p-selectbutton .p-button.p-highlight {
+    background: red;
+    background-color: red;
+  }
+
+  .p-selectbutton .p-button.p-highlight:hover {
+    background: green;
+  }
+}
